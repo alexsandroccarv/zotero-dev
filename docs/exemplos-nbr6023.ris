@@ -1,0 +1,325 @@
+TY  - BOOK
+AU  - Luck, Heloisa
+TI  - Liderança em gestão escolar
+ET  - 4
+CY  - Petrópolis
+PB  - Vozes
+PY  - 2010
+T3  - Cadernos de gestão
+SN  - 978-85-3263-62-01
+N1  - Exemplo NBR 6023 (7.1, livro). Para a série completa, ajustar no Zotero o campo Série para "Cadernos de gestão" e Número da série para "v. 4".
+ER  - 
+
+TY  - BOOK
+AU  - Bauman, Zygmunt
+TI  - Globalização: as consequências humanas
+A4  - Penchel, Marcus
+CY  - Rio de Janeiro
+PB  - Jorge Zahar
+PY  - 1999
+SN  - 85-7110-495-6
+N1  - Exemplo NBR 6023 (7.1, livro com tradução). O tradutor está em A4; confirmar que o Zotero o importou no papel Tradutor. Título original: Globalization: the human consequences.
+ER  - 
+
+TY  - BOOK
+TI  - Pequena biblioteca do vinho
+CY  - São Paulo
+PB  - Lafonte
+PY  - 2012
+N1  - Exemplo NBR 6023 (8.1.4, entrada por título, sem autoria). Esperado na norma: só a primeira palavra em maiúsculas (PEQUENA biblioteca do vinho). O estilo sai com o título todo em maiúsculas; ajuste manual.
+ER  - 
+
+TY  - BOOK
+AU  - Godinho, Thais
+TI  - Vida organizada: como definir prioridades e transformar seus sonhos em objetivos
+CY  - São Paulo
+PB  - Gente
+PY  - 2014
+N1  - Exemplo NBR 6023 (7.2, livro em meio eletrônico). Para sair "E-book", acrescentar no campo Extra: medium: E-book
+ER  - 
+
+TY  - CHAP
+AU  - Romano, Giovanni
+TI  - Imagens da juventude na era moderna
+T2  - História dos jovens 2: a época contemporânea
+A2  - Levi, Giovanni
+A2  - Schmidt, Jean-Claude
+CY  - São Paulo
+PB  - Companhia das Letras
+PY  - 1996
+SP  - 7
+EP  - 16
+N1  - Exemplo NBR 6023 (7.3, capítulo com autor diferente do organizador). Conferir que os nomes em A2 entraram como Editor/Organizador no Zotero.
+ER  - 
+
+TY  - CHAP
+AU  - Santos, Fernando Rodrigues dos
+TI  - A colonização da terra do Tucujús
+T2  - História do Amapá
+A2  - Santos, Fernando Rodrigues dos
+ET  - 2
+CY  - Macapá
+PB  - Valcan
+PY  - 1994
+SP  - 15
+EP  - 24
+N1  - Exemplo NBR 6023 (7.3, capítulo com autor igual ao do livro).
+ER  - 
+
+TY  - JOUR
+AU  - Gurgel, Cláudio
+TI  - Reforma do Estado e segurança pública
+T2  - Política e Administração
+VL  - 3
+IS  - 2
+SP  - 15
+EP  - 21
+DA  - 1997/09//
+PY  - 1997
+CY  - Rio de Janeiro
+N1  - Exemplo NBR 6023 (7.5, artigo de periódico). O tipo Artigo de Periódico do Zotero não tem campo Local; para sair "Rio de Janeiro", acrescentar no Extra: publisher-place: Rio de Janeiro
+ER  - 
+
+TY  - JOUR
+TI  - As 500 maiores empresas do Brasil
+T2  - Conjuntura Econômica
+VL  - 38
+IS  - 9
+SP  - 4
+EP  - 30
+DA  - 1984/09//
+PY  - 1984
+CY  - Rio de Janeiro
+N1  - Exemplo NBR 6023 (7.5, artigo sem autoria, entrada por título). Local pelo Extra: publisher-place: Rio de Janeiro. Maiúsculas só na primeira palavra são ajuste manual.
+ER  - 
+
+TY  - NEWS
+AU  - Otta, Lu Aiko
+TI  - Parcela do tesouro nos empréstimos sobe
+T2  - O Estado de S. Paulo
+CY  - São Paulo
+DA  - 2006/07/01/
+PY  - 2006
+SP  - B1
+SE  - Economia
+N1  - Exemplo NBR 6023 (7.5, artigo de jornal). O caderno "Economia" está em SE (Seção); confirmar no Zotero. Esperado na norma: "Economia, p. B1".
+ER  - 
+
+TY  - THES
+AU  - Aguiar, André Andrade de
+TI  - Avaliação da microbiota bucal em pacientes sob uso crônico de penicilina
+M3  - Tese (Doutorado em Cardiologia)
+PB  - Universidade de São Paulo
+CY  - São Paulo
+PY  - 2009
+N1  - Exemplo NBR 6023 (7.1.2, tese). A norma traz "144 f."; o número de folhas vai no campo "# de folhas/páginas" do Zotero (folhas: 144). A unidade acadêmica completa é "Faculdade de Medicina, Universidade de São Paulo".
+ER  - 
+
+TY  - THES
+AU  - Rodrigues, Maria Vânia
+TI  - Qualidade de vida no trabalho
+M3  - Dissertação (Mestrado em Administração)
+PB  - Universidade Federal de Minas Gerais
+CY  - Belo Horizonte
+PY  - 1991
+N1  - Exemplo NBR 6023 (7.1.2, dissertação). Norma: "180 f." e "Faculdade de Ciências Econômicas, Universidade Federal de Minas Gerais".
+ER  - 
+
+TY  - CONF
+AU  - Souza, Carlos
+TI  - Mineração de dados aplicada à gestão pública
+T2  - Congresso Brasileiro de Administração Pública
+C2  - 10
+CY  - São Paulo
+PB  - SBAP
+PY  - 2018
+SP  - 100
+EP  - 110
+N1  - Exemplo representativo no formato da NBR 6023 (7.8.4, trabalho de evento). O número da ocorrência do evento (10.) está em C2; confirmar mapeamento no Zotero.
+ER  - 
+
+TY  - STAT
+TI  - Lei nº 10.406, de 10 de janeiro de 2002
+AU  - Brasil
+AB  - Institui o Código Civil.
+C1  - 10.406
+DA  - 2002/01/10/
+PY  - 2002
+N1  - Exemplo NBR 6023 (7.11.1, legislação). O Diário Oficial não é carregado pelo RIS; após importar, no campo Extra acrescentar: container-title: Diário Oficial da União | section: seção 1 | publisher-place: Brasília, DF. Melhor validação: usar o tradutor do DOU, que já produz o item statute completo.
+ER  - 
+
+TY  - STAT
+TI  - Circular nº 3.348, de 3 de maio de 2007
+AU  - Banco Central do Brasil
+AB  - Altera o Regulamento do Mercado de Câmbio e Capitais Internacionais (RMCCI).
+DA  - 2007/05/03/
+PY  - 2007
+N1  - Exemplo NBR 6023 (7.11.1, ato normativo com órgão). O órgão subordinado "Diretoria Colegiada" e o Diário Oficial entram pelo Extra/autor institucional. Diário Oficial da União, seção 1, Brasília, DF, ano 144, n. 85, p. 32, 4 maio 2007.
+ER  - 
+
+TY  - CASE
+TI  - Recurso Especial nº 1.234.567/SP
+AU  - Brasil
+A2  - Superior Tribunal de Justiça
+DA  - 2020/03/12/
+PY  - 2020
+N1  - Exemplo representativo no formato da NBR 6023 (7.11.3, jurisprudência). O tribunal deve ficar no campo Tribunal (authority); o relator (Ministro Fulano de Tal) e o veículo (Diário da Justiça Eletrônico) entram pelo Extra. O estilo usa o Tribunal como entrada em maiúsculas.
+ER  - 
+
+TY  - PAT
+AU  - Embrapa
+TI  - Inóculo para inoculação de leguminosas
+A2  - Embrapa
+M1  - BR n. PI 0801234-5
+DA  - 1997/05/13/
+PY  - 1997
+N1  - Exemplo NBR 6023 (7.9, patente). O depositante (Embrapa) deve ficar no campo Autoridade/Depositante; a data de concessão é 13 maio 1997 e o depósito 22 jul. 1992. O número está em M1.
+ER  - 
+
+TY  - ART
+AU  - Kobayashi, K.
+TI  - Doença dos xavantes
+PY  - 1980
+M3  - 1 fotografia, color.
+N1  - Exemplo NBR 6023 (7.15, documento iconográfico). Dimensões "16 cm x 56 cm" no campo de dimensões. O suporte "1 fotografia, color." está em M3 (genre).
+ER  - 
+
+TY  - MAP
+AU  - IBGE
+TI  - Mapa político do Brasil
+ET  - 2
+CY  - Brasília, DF
+PB  - IBGE
+PY  - 2010
+M3  - 1 mapa
+N1  - Exemplo NBR 6023 (7.17, documento cartográfico). A escala "escala 1:600.000" vai no campo Escala do Zotero (scale).
+ER  - 
+
+TY  - MPCT
+TI  - Os perigos do uso de tóxicos
+A2  - Ramos, Jorge
+CY  - São Paulo
+PB  - CERAVI
+PY  - 1983
+M3  - 1 DVD
+N1  - Exemplo NBR 6023 (7.13, filme). Conferir que Jorge Ramos entrou no papel Diretor. O suporte "1 DVD" está em M3.
+ER  - 
+
+TY  - SOUND
+TI  - Águas de março
+A2  - Jobim, Antônio Carlos
+AU  - Regina, Elis
+CY  - Rio de Janeiro
+PB  - Philips
+PY  - 1974
+M3  - 1 disco sonoro
+N1  - Exemplo NBR 6023 (7.13, fonograma). Compositor (Jobim) no papel Compositor; intérprete (Elis Regina) no Autor/Intérprete. Suporte "1 disco sonoro" em M3.
+ER  - 
+
+TY  - ELEC
+AU  - Brasil. Ministério da Saúde
+TI  - Painel de indicadores do SUS
+PY  - 2023
+UR  - https://www.gov.br/saude/painel
+Y2  - 2024/03/22/
+N1  - Exemplo representativo no formato da NBR 6023 (7.20, documento online). Título em negrito por ser documento autônomo. Acesso em 22 mar. 2024.
+ER  - 
+
+TY  - BOOK
+AU  - Brasil
+TI  - Constituição da República Federativa do Brasil
+CY  - Brasília, DF
+PB  - Senado Federal
+PY  - 1988
+N1  - Exemplo NBR 6023 (7.11.1, Constituição). Recomendação: cadastrar como Livro para o título sair em negrito. A epígrafe "[Constituição (1988)]" é acréscimo manual antes do título, quando exigida.
+ER  - 
+
+TY  - RPRT
+AU  - Instituto de Pesquisa Econômica Aplicada
+TI  - Desenvolvimento humano nos municípios
+CY  - Brasília, DF
+PB  - Ipea
+PY  - 2020
+M3  - Relatório de pesquisa
+N1  - Exemplo representativo no formato da NBR 6023 (relatório técnico). A nota de tipo "Relatório de pesquisa" está em M3 (genre); o número de páginas (120 p.) no campo de páginas.
+ER  - 
+
+TY  - DICT
+AU  - Nogueira, Marco
+TI  - Accountability
+T2  - Dicionário de administração pública
+A2  - Castro, José
+CY  - Porto Alegre
+PB  - Editora UFRGS
+PY  - 2019
+SP  - 12
+EP  - 15
+N1  - Exemplo representativo no formato da NBR 6023 (verbete de dicionário). Confirmar que o tipo importou como "Verbete de dicionário" e que José Castro está como Organizador.
+ER  - 
+
+TY  - COMP
+AU  - R Core Team
+TI  - R: a language and environment for statistical computing
+ET  - 4.0.3
+CY  - Vienna
+PB  - R Foundation
+PY  - 2020
+N1  - Exemplo representativo no formato da NBR 6023 (7.20, programa de computador). A versão (4.0.3) deve ficar no campo Versão do Zotero (version), não em Edição.
+ER  - 
+
+TY  - DATA
+AU  - IBGE
+TI  - Censo demográfico 2022
+ET  - 1.0
+CY  - Rio de Janeiro
+PB  - IBGE
+PY  - 2023
+UR  - https://www.ibge.gov.br/censo2022
+Y2  - 2024/01/15/
+N1  - Exemplo representativo no formato da NBR 6023 (base de dados). A versão (1.0) no campo Versão. Confirmar que o tipo importou como "Conjunto de dados".
+ER  - 
+
+TY  - MANSCPT
+AU  - Andrade, Mário de
+TI  - Carta a Carlos Drummond
+DA  - 1925/02/10/
+PY  - 1925
+N1  - Exemplo representativo no formato da NBR 6023 (manuscrito). O acervo "Arquivo IEB-USP" vai no campo Arquivo (archive).
+ER  - 
+
+TY  - STAND
+AU  - Associação Brasileira de Normas Técnicas
+TI  - NBR 6023: informação e documentação: referências: elaboração
+CY  - Rio de Janeiro
+PB  - ABNT
+PY  - 2025
+N1  - Exemplo representativo no formato da NBR 6023 (norma técnica). Confirmar que o tipo importou como "Norma" (standard). Número de páginas (68 p.) no campo de páginas.
+ER  - 
+
+TY  - GEN
+AU  - Pereira, Lia
+TI  - Abertura do seminário de governo aberto
+DA  - 2022/09/12/
+PY  - 2022
+M3  - Palestra
+N1  - Exemplo representativo no formato da NBR 6023 (apresentação ou palestra). Após importar, mudar o tipo do item para "Apresentação" no Zotero. O evento "Seminário Nacional de Governo Aberto" e o local "Brasília, DF" nos campos Reunião e Local.
+ER  - 
+
+TY  - PCOMM
+AU  - Lima, Paula
+TI  - Mensagem sobre o projeto HU-2
+DA  - 2023/08/03/
+PY  - 2023
+M3  - Mensagem pessoal
+N1  - Exemplo representativo no formato da NBR 6023 (comunicação pessoal). O destinatário (Alexsandro Carvalho) vai no papel Destinatário; a nota de tipo "Mensagem pessoal" no campo Tipo (genre).
+ER  - 
+
+TY  - ART
+TI  - Roda de bicicleta
+AU  - Duchamp, Marcel
+CY  - Paris
+PY  - 1913
+M3  - 1 escultura
+N1  - Exemplo representativo no formato da NBR 6023 (7.19, objeto tridimensional). Para acionar o ramo dedicado, após importar acrescentar no campo Extra: type: figure | medium: metal e madeira
+ER  - 
+
